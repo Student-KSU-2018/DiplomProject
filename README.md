@@ -1,3 +1,3 @@
 # DiplomProject
 Репозиторий содержит ресурсы используемые в ходе создания дипломного проекта.
-Код реализованный в ходе проекта расположен в DiplomProject/BKP/Assets/Scripts/
+Код проекта расположен в папке Scripts - DiplomProject/BKP/Assets/Scripts/
